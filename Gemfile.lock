@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ast (2.4.0)
+    byebug (11.0.1)
+    parser (2.6.4.1)
+      ast (~> 2.4.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  byebug
+  parser
+
+BUNDLED WITH
+   1.17.3
